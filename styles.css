@@ -72,6 +72,7 @@ main {
     width: 88px;
     height: 88px;
     margin-bottom: 16px;
+    object-fit: cover;
 }
 
 .title-avatar h1 {
